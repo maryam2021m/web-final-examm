@@ -1,0 +1,15 @@
+
+  body {
+    min-height: 100vh;
+    font-family: "Yekan" !important;
+  }
+  
+  /* login background */
+  .bg-my-gradient {
+    background: #9053c7;
+    background: -webkit-linear-gradient(-135deg, #4158d0, #db70d4, #4158d0);
+    background: -o-linear-gradient(-135deg, #4158d0, #c850c0, #4158d0);
+    background: -moz-linear-gradient(-135deg, #4158d0, #c850c0, #4158d0);
+    background: linear-gradient(-135deg, #4158d0, #c850c0, #4158d0);
+  }
+  
